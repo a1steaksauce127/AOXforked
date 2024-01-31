@@ -9,7 +9,7 @@ except ImportError:
 
 banner = """
 
- █████╗ ██╗  ██╗██████╗  DDoS The Universe
+ █████╗ ██╗  ██╗██████╗  Deface The Universe
 ██╔══██╗╚██╗██╔╝██╔══██╗ 
 ███████║ ╚███╔╝ ██║  ██║ 
 ██╔══██║ ██╔██╗ ██║  ██║ 
